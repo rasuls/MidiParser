@@ -455,7 +455,8 @@ void MidiFileParser::doWork(const string& midiFileName) {
 
 int main()
 {
-	MidiFileParser parser("C:\\Users\\rasul\\Desktop\\c++projects\\MIDIparser\\silent_night_easy.mid");
+	MidiFileParser parser("my_midi_file.mid");
+	vector <vector <Note>> notes = parser.getTrackNotes();
 	return 0;
 }
 
