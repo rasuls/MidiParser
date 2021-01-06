@@ -23,5 +23,5 @@ Example usage is covered in main, #include the file and use the following, with 
 
 Code is built for the following specifications:
 
-Based on RP-001_v1-0_Standard_MIDI_Files_Specification_96-1-4 and
+RP-001_v1-0_Standard_MIDI_Files_Specification_96-1-4
 https://web.archive.org/web/20141227205754/http://www.sonicspot.com:80/guide/midifiles.html
